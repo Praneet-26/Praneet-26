@@ -18,7 +18,7 @@
         <li>🔭 Am currently learning more about <b>Cloud & Algo-Trading</b>.</li>
         <li>🌱 I have a deep interest in Finance, Technology & Fitness.</li>
         <li>⚡ Fun fact: I enjoy Strength training and cooking.</li>
-        <li>📫 You can reach out to me at: pn3270@rit.edu</li>
+        <li>📫 You can reach out to me at: <a href="pn3270@rit.edu">Email ID</a></li>
       </ul>
     </small>
   </div>
