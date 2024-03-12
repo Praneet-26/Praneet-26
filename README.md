@@ -12,15 +12,18 @@
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
-        <li>💼 Currently, a student pursuing Masters in Software Engineering @ Rochester Institute of Technology</li>
+        <li>💼 Currently, a student pursuing Masters in Software Engineering @Rochester Institute of Technology</li>
         <li>💙 Was working as a RPA & Software Engineer @Datamatics and @StepOneStepAhead LLP</li>
         <li>❤️ I love developing, automating applications, writing trading scripts in Python, and algo-trading</li>
-        <li>🔭 Am currently learning more about Cloud & Algo-Trading.</li>
+        <li>🔭 Am currently learning more about <b>Cloud & Algo-Trading</b>.</li>
         <li>🌱 I have a deep interest in Finance, Technology & Fitness.</li>
         <li>⚡ Fun fact: I enjoy Strength training and cooking.</li>
+        <li>📫 You can reach out to me at: pn3270@rit.edu</li>
       </ul>
     </small>
   </div>
+
+  
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
