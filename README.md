@@ -9,12 +9,17 @@
   <a href="mailto:pn3270rit.g.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 <div>
+<div style="font-size: small;">
   <h2>About Me</h2>
-  <p>I'm a passionate FrontEnd developer from India 🇮🇳. Currently working as a FrontEnd Engineer at Razorpay.</p>
-  <p>I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.</p>
-  <p>I particularly enjoy working with TypeScript and experimenting with type-level programming.</p>
-  <p>Feel free to ask me about anything!</p>
+  <ul>
+    <li>I'm a passionate FrontEnd developer from India 🇮🇳.</li>
+    <li>Currently working as a FrontEnd Engineer at Razorpay.</li>
+    <li>I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.</li>
+    <li>I particularly enjoy working with TypeScript and experimenting with type-level programming.</li>
+    <li>Feel free to ask me about anything!</li>
+  </ul>
 </div>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
