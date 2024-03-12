@@ -9,7 +9,7 @@
   <a href="mailto:pn3270rit.g.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 <div>
-    <h2>About Me</h2>
+    <h3>About Me</h3>
     <small>
       <ul>
         <li>I'm a passionate FrontEnd developer from India 🇮🇳.</li>
