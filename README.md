@@ -11,8 +11,8 @@
 <div>
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
-      <ul style="font-family: Cambria; font-size: 12px;>
-        <li>I'm a passionate FrontEnd developer from India 🇮🇳.</li>
+      <ul>
+        <li>I'm a passionate FrontEnd developer from ndia 🇮🇳.</li>
         <li>Currently working as a FrontEnd Engineer at Razorpay.</li>
         <li>I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.</li>
         <li>I particularly enjoy working with TypeScript and experimenting with type-level programming.</li>
