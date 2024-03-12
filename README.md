@@ -12,11 +12,12 @@
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
-        <li>I'm a passionate FrontEnd developer from ndia 🇮🇳.</li>
-        <li>Currently working as a FrontEnd Engineer at Razorpay.</li>
-        <li>I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.</li>
-        <li>I particularly enjoy working with TypeScript and experimenting with type-level programming.</li>
-        <li>Feel free to ask me about anything!</li>
+        <li>💼 Currently, a student pursuing Masters in Software Engineering @ Rochester Institute of Technology</li>
+        <li>💙 Was working as a RPA & Software Engineer @Datamatics and @StepOneStepAhead LLP</li>
+        <li>❤️ I love developing, automating applications, writing trading scripts in Python, and algo-trading</li>
+        <li>🔭 Am currently learning more about Cloud & Algo-Trading.</li>
+        <li>🌱 I have a deep interest in Finance, Technology & Fitness.</li>
+        <li>⚡ Fun fact: I enjoy Strength training and cooking.</li>
       </ul>
     </small>
   </div>
