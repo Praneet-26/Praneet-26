@@ -22,7 +22,13 @@
       </ul>
     </small>
   </div>
-
+<h3 style="font-family: Cambria; font-size: 16px;">Skills:</h3>
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <!-- Add more badges for other programming languages -->
+</p>
   
 
 - 👀 I’m interested in ...
