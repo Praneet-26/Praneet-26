@@ -8,17 +8,18 @@
   <a href="https://medium.com/@naikpraneet44" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:pn3270rit.g.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-## About Me
-
-<small>
-
-- I'm a passionate FrontEnd developer from India 🇮🇳.
-- Currently working as a FrontEnd Engineer at Razorpay.
-- I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.
-- I particularly enjoy working with TypeScript and experimenting with type-level programming.
-- Feel free to ask me about anything!
-
-</small>
+<div>
+    <h2>About Me</h2>
+    <small>
+      <ul>
+        <li>I'm a passionate FrontEnd developer from India 🇮🇳.</li>
+        <li>Currently working as a FrontEnd Engineer at Razorpay.</li>
+        <li>I have built several projects including github-readme-stats, verlyjs, and more. My projects have received 50m+ hits and have garnered 50K stars on GitHub.</li>
+        <li>I particularly enjoy working with TypeScript and experimenting with type-level programming.</li>
+        <li>Feel free to ask me about anything!</li>
+      </ul>
+    </small>
+  </div>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
