@@ -10,7 +10,7 @@
 </p>
 ## About Me
 
-<sub>
+<small>
 
 - I'm a passionate FrontEnd developer from India 🇮🇳.
 - Currently working as a FrontEnd Engineer at Razorpay.
@@ -18,7 +18,7 @@
 - I particularly enjoy working with TypeScript and experimenting with type-level programming.
 - Feel free to ask me about anything!
 
-</sub>
+</small>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
