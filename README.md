@@ -44,6 +44,15 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
 </p>
+<h4>Cloud:</h4>
+<p align="left"> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Lambda"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20API%20Gateway-3DDC84?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="AWS API Gateway"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="AWS DynamoDB"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20Cognito-232F3E?style=for-the-badge&logo=amazon-cognito&logoColor=white" alt="AWS Cognito"></a>
+</p>
   
 
 - 👀 I’m interested in ...
