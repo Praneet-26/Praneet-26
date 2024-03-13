@@ -53,6 +53,12 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="AWS DynamoDB"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20Cognito-232F3E?style=for-the-badge&logo=amazon-cognito&logoColor=white" alt="AWS Cognito"></a>
 </p>
+<h4>OS &  Version Control:</h4>
+<p align="left"> 
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TortoiseSVN-678C98?style=for-the-badge&logo=Subversion&logoColor=white" alt="TortoiseSVN"></a>
+</p>
   
 
 - 👀 I’m interested in ...
