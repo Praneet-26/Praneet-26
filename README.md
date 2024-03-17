@@ -68,6 +68,6 @@
   </p>
 <h4>Certifications: </h4>
 <p align="left">
-  <a href="https://example.com"><img src="image.jpg" alt="Description of the image"></a>
+  <a href="https://example.com"><img src="aws-certified-cloud-practitioner.png" alt="Description of the image"></a>
 </p>
 
