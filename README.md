@@ -68,6 +68,6 @@
   </p>
 <h4>Certifications: </h4>
 <p align="left">
-  <a href="https://example.com"><img src="aws-certified-cloud-practitioner.png" alt="Description of the image"></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/bc790c428cc7422691583535e40ff245"><img src="aws-certified-cloud-practitioner.png" alt="Description of the image"></a>
 </p>
 
