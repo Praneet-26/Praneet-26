@@ -66,3 +66,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white" alt="Notepad++"></a>
   </p>
+<h4>Certifications: </h4>
+<p align="left">
+  <a href="https://example.com"><img src="image.jpg" alt="Description of the image"></a>
+</p>
+
