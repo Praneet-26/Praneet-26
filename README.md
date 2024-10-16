@@ -47,7 +47,8 @@
 <h4>Cloud:</h4>
 <p align="left"> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Azure"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+
 </p>
 <h4>OS &  Version Control:</h4>
 <p align="left"> 
