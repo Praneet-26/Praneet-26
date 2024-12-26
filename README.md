@@ -15,7 +15,7 @@
         <li>💼 Currently, a student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b>.</li>
         <li>💙 Am also working as Cloud Infrastructure Engineer Intern @<b>Excellus-BlueCross BlueShield</b>.</li>
         <li>❤️ I love developing, automating applications, deploying cloud infrastructures, and scripting.</li>
-        <li>🔭 Am currently learning more about <b>Containerization.</b>.</li>
+        <li>🔭 Am currently learning more about <b>Containerization & Middleware</b>.</li>
         <li>🌱 I have a deep interest in CloudOps, Automation & Fitness.</li>
         <li>⚡ Fun fact: I enjoy Strength training and Cooking.</li>
         <li>📫 You can reach out to me at: <a href="pn3270@rit.edu">Email ID</a></li>
