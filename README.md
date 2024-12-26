@@ -13,7 +13,7 @@
     <small>
       <ul>
         <li>💼 Currently, a student pursuing Masters in Software Engineering @Rochester Institute of Technology.</li>
-        <li>💙 Am also working as Cloud Infrastructure Engineer Intern @Excellus-BlueCross BlueShield.</li>
+        <li>💙 Am also working as Cloud Infrastructure Engineer Intern @<b>Excellus-BlueCross BlueShield</b>.</li>
         <li>❤️ I love developing, automating applications, deploying cloud infrastructures, and scripting.</li>
         <li>🔭 Am currently learning more about <b>Containerization.</b>.</li>
         <li>🌱 I have a deep interest in CloudOps, Automation & Fitness.</li>
