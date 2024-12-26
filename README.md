@@ -66,12 +66,19 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TortoiseSVN-678C98?style=for-the-badge&logo=Subversion&logoColor=white" alt="TortoiseSVN"></a>
 </p>
-<h4>IDE: </h4>
+<h4>Miscellaneous: </h4>
 <p align="left"> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white" alt="Notepad++"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white" alt="Nutanix"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMWare"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperglance-025D8C?style=for-the-badge&logoColor=white" alt="Hyperglance"></a>
   </p>
 <h4>Certifications: </h4>
 <p align="left">
