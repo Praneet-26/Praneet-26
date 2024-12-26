@@ -12,7 +12,7 @@
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
-        <li>💼 Currently, a student pursuing Masters in Software Engineering @Rochester Institute of Technology.</li>
+        <li>💼 Currently, a student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b>.</li>
         <li>💙 Am also working as Cloud Infrastructure Engineer Intern @<b>Excellus-BlueCross BlueShield</b>.</li>
         <li>❤️ I love developing, automating applications, deploying cloud infrastructures, and scripting.</li>
         <li>🔭 Am currently learning more about <b>Containerization.</b>.</li>
@@ -25,14 +25,12 @@
 <h3 style="font-family: Cambria; font-size: 16px;">Skills:</h3>
 <h4>Languages:</h4>
 <p align="left"> 
-
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VBA-86734C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VBA"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/YAML-CCCCCC?style=for-the-badge&logo=yaml&logoColor=black" alt="YAML"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 <h4>Databases:</h4>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
