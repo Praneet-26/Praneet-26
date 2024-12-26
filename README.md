@@ -12,12 +12,12 @@
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
-        <li>💼 Currently, a student pursuing Masters in Software Engineering @Rochester Institute of Technology</li>
-        <li>💙 Was working as a RPA & Software Engineer @Datamatics and @StepOneStepAhead LLP</li>
+        <li>💼 Currently, a student pursuing Masters in Software Engineering @Rochester Institute of Technology.</li>
+        <li>💙 Am also working as Cloud Infrastructure Engineer Intern @Excellus-BlueCross BlueShield.</li>
         <li>❤️ I love developing, automating applications, deploying cloud infrastructures, and scripting.</li>
-        <li>🔭 Am currently learning more about <b>Cloud & Containerization.</b>.</li>
-        <li>🌱 I have a deep interest in Finance, Technology & Fitness.</li>
-        <li>⚡ Fun fact: I enjoy Strength training and cooking.</li>
+        <li>🔭 Am currently learning more about <b>Containerization.</b>.</li>
+        <li>🌱 I have a deep interest in CloudOps, Automation & Fitness.</li>
+        <li>⚡ Fun fact: I enjoy Strength training and Cooking.</li>
         <li>📫 You can reach out to me at: <a href="pn3270@rit.edu">Email ID</a></li>
       </ul>
     </small>
@@ -27,7 +27,6 @@
 <p align="left"> 
 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/VBA-86734C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VBA"></a>
@@ -35,6 +34,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
+<h4>Databases:</h4>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <h4>Frameworks & Packages:</h4>
 <p align="left"> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
