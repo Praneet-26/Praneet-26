@@ -32,6 +32,15 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
+<h4>Cloud, Automation, and Orchestration Tools:</h4>
+<p align="left"> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="OpenShift"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+</p>
 <h4>Databases:</h4>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <h4>Frameworks & Packages:</h4>
@@ -42,16 +51,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/yfinance-0052CC?style=for-the-badge&logo=yahoo&logoColor=white" alt="yfinance"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
-</p>
-<h4>Cloud, Automation, and Orchestration Tools:</h4>
-<p align="left"> 
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="OpenShift"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
-
 </p>
 <h4>OS &  Version Control:</h4>
 <p align="left"> 
